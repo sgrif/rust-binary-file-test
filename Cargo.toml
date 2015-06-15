@@ -1,0 +1,7 @@
+[package]
+name = "binary-file-test-rs"
+version = "0.1.0"
+authors = ["Sean Griffin <sean@thoughtbot.com>"]
+
+[dependencies]
+byteorder = "*"
